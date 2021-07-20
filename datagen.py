@@ -6,16 +6,37 @@ import unidecode
 
 
 
-
+def Enter():
+    time.sleep(0.2)
+    pyautogui.press("enter")
+    time.sleep(0.2)
+def tab():
+    time.sleep(0.2)
+    pyautogui.press("tab")
+    time.sleep(0.2)
 
 def click(x,y):
     pyautogui.moveTo(x,y,duration=0.5)
     pyautogui.click(x,y)
+def TEnter():
+    tab()
+    Enter()
+def twrite(string):
+    tab()
+    pyperclip.copy(string)
+    pyautogui.hotkey("ctrl", "v")
 
 def write(x,y,string):
     click(x,y)
     pyperclip.copy(string)
     pyautogui.hotkey("ctrl", "v")
+def tscroll(options):
+    tab()
+    pyautogui.press("enter")
+    for _ in range  (random.randrange(1,options)):
+        pyautogui.press('down')
+    pyautogui.press('enter')
+    time.sleep(1)
 
 def scroll_list(x,y,options):
     click(x,y)
@@ -59,6 +80,9 @@ knev = ""
 telszam = ""
 email = ""
 
+for i in range (3,0,-1):
+    print("program starts in " + str(i))
+    time.sleep(.5)
 
 
 while True:
@@ -66,22 +90,27 @@ while True:
 
     ##click(900,500)
     vnev=random.choice(vezeteknevek)
-    write(900,500,vnev)
+    twrite(vnev)
+    ##write(900,500,vnev)
 
     ##click(900,560)
     if random.randrange(2)==0:
         knev=random.choice(ferfinevek)
-        write(900,560,knev)
+        #write(900,560,knev)
+        twrite(knev)
         ferfie=True
     else:
         knev=random.choice(noinevek)
-        write(900,560,knev)
+        #write(900,560,knev)
+        twrite(knev)
         ferfie=False
 
     ##click(900,630)
     email = unidecode.unidecode(vnev.lower()+str(knev.lower())+'@gmail.com')
-    write(900,630,email)
-    click(900,700) ##submit
+    #write(900,630,email)
+    twrite(email)
+    #click(900,700) ##submit
+    TEnter()
     time.sleep(2)
     #click(1200,330) ## telefonszám
     telszam='06' + str(random.randrange(1,10)) + '0'
@@ -160,40 +189,73 @@ while True:
 
     click(850,750) # mentés
 
-    ##dokumentumok: 550 185
-    ## hozzáadás: 450 270
-    ## dokumentum típusa: 930 470
-    ##      documenttype1 : 900 525
-    ##      documenttype2: 900 570
-    ##      documenttype3: 900 605
-    ## megjegyzés: 930 530
-    ##  paste diákigazolvány
-    ## dokumentum kiválasztása:840 585
-    ## paste diak.pdf
-    ## enter
-    ##mentés 900 670
+    #hívások
+    click(1100,380)
+    tscroll(3)
+    tab()
+    TEnter()
+    if random.randrange(2):
+        ##dokumentumok: 550 185
+        click(550,185)
+        ## hozzáadás: 450 270
+        click(450,270)
+        tscroll(3)
+        ## dokumentum típusa: 930 470
+        ##      documenttype1 : 900 525
+        ##      documenttype2: 900 570
+        ##      documenttype3: 900 605
+        twrite("diákigazolvány")
+        ## megjegyzés: 930 530
+        ##  paste diákigazolvány
+        ## dokumentum kiválasztása:840 620
+        click(840,620)
+        time.sleep(1)
+        pyperclip.copy('diak.pdf')
+        pyautogui.hotkey("ctrl", "v")
+        time.sleep(1)
+        ## paste diak.pdf
+        ## enter
+        pyautogui.press("enter")
+        time.sleep(2)
+        
+        ##mentés 900 670
+        click(900,670)
+        ## részletek: 400 185
+        click(400,185)
 
-    ## részletek: 400 185
 
     ##softskillek: 700 185
+    if random.randrange(2):
+        ##tesztek : 800 185
+        click(800,185)
+        ## hozzáadás: 450 270
+        click(450,270)
+        tscroll(3)
+        twrite(str(random.randrange(1,100)))
+        tab()
+        tab()
+        tab()
+        TEnter()
+        ## részletek: 400 185
+        click(400,185)
 
-    ##tesztek : 800 185
-    ## hozzáadás: 450 270
-    ## teszt : 930 470
-    ##      documenttype1 : 900 525
-    ##      documenttype2: 900 570
-    ##      documenttype3: 900 605
-    ## megjegyzés: 930 530
-    ## score : 660 1000
-    ## mentés: 870 730
-
-    ##jelentkezések : 950 185
-    ## új jelentkezés: 450 270
-    ##  ID :850 500 
-    ## paste 1
-    ## keresés : 850 630
-    ## kiválasztás:820 670
-    ## mentés : 850 740
+    if random.randrange(2):
+         ##jelentkezések : 950 185
+        click(950,185)
+        ## új jelentkezés: 450 270
+        click(450,270)
+        ##  ID :850 500 
+        twrite(str(1))
+        Enter()
+        ## paste 1
+        ## keresés : 850 630
+        ## kiválasztás:820 670
+        click(820,670)
+        ## mentés : 850 740
+        click(850,740)
+        ## részletek: 400 185
+        click(400,185)
+   
 
     click(1220,900) ## vissza
     ## 1220, 900 ha van iskola és nyelv

@@ -1,0 +1,400 @@
+ADS Service
+Aegon Magyarország Általános Biztosító Zrt.
+Aegon Magyarország Pénztárszolgáltató Rt.
+Agárdi Állami Gazdaság
+Ágota Technic
+Agrobank Rt.
+Agrolux Községeket és Mezőgazdaságokat Villamosító Rt.
+A-Híd Zrt.
+AImotive
+Ajkai Timföldgyár
+Ajka Kristály
+Alfa Busz Kft.
+Alföld Koncessziós Autópálya Zrt.
+Alkaloida Vegyészeti Gyár
+ANY Biztonsági Nyomda
+Állami Privatizációs és Vagyonkezelő Rt.
+Allianz Hungária
+Almásfüzitői Timföldgyár
+Alpha-Vet Állatgyógyászati Kft.
+ALTEO Energiaszolgáltató Nyrt.
+Andreas Stihl Kereskedelmi Kft.
+Angster orgona- és harmóniumgyár
+ÁPISZ
+Appeninn Nyrt.
+Arcanum Adatbázis Kft.
+Auguszt Cukrászda
+AUTÓKUT
+Aventics
+AXA Bank
+Balaton Bútorgyár Zrt.
+Bárdi Autó Zrt.
+Baumag szövetkezet
+BDPST Group
+BeeRides Car Sharing
+Béres Gyógyszergyár Zrt.
+BHG Híradástechnikai Vállalat
+Big Bang Media
+Billerbeck (cég)
+BKV Vasúti Járműjavító Kft.
+BMSK Zrt.
+BorsodChem
+Borsodi Sörgyár Kft.
+Borsodi Vegyi Kombinát
+BRG
+Buda-Cash Brókerház Zrt.
+Budafoki Élesztő és Szeszgyár Rt.
+Budai Tégla és Cserépipari Vállalat
+Budapest Bank
+Budapesti Elektromos Művek
+Budapesti Finomkötöttárugyár
+Budapesti gyárak listája
+Budapesti Harisnyagyár
+Budapesti Sportszolgáltató Központ
+Budavár Tours
+Búzakalász 66 Felcsút Mezőgazdasági Kft.
+Cartographia
+Case Solvers
+Central Médiacsoport Zrt.
+Centrum Áruházak
+CIB Bank
+CIG Pannónia
+Citibank (Magyarország)
+Cofidis (Magyarország)
+Comforce Zrt.
+Comnica Kft.
+Concorde Csoport
+Corvin Filmgyár
+Corvus Aircraft
+CTnetwork
+Cukoripari Kutató Intézet
+Cukoripari Vállalatok Trösztje
+Danubius Hotels Group
+Das WeltAuto
+Deischel A. Magyar Acéldrót-, Drótkötél- és Drótárugyár
+Delta Technologies Nyrt.
+Digic Pictures
+Diósgyőri Acélművek
+Diósgyőri Gépgyár
+A diósgyőri kohászat története
+Diósgyőri Papírgyár
+Direct One
+Djuice
+Dorogi hanglemezgyár
+Dorogi hőerőmű
+Dorogi hulladékégető
+Duna Autó Zrt.
+Dunai Vasmű
+Dunakeszi konzervgyár
+Egis Gyógyszergyár Zrt.
+Egyesült Izzólámpa és Villamossági Rt.
+Egyesült Vegyiművek
+Elektromos Készülékek és Mérőműszerek Gyára
+Elektromos Mérőműszerek Gyára
+Elektronikus Mérőkészülékek Gyára (Sashalom)
+Eleven Kft.
+Első Magyar Gazdasági Gépgyár
+Első Magyar Koncessziós Autópálya Rt.
+Első Nemzeti Közműszolgáltató
+ELTE Idegennyelvi Továbbképző Központ
+Elzett Zár- és Lakatgyár
+Engel Károly Alkatrészgyár N. V. Műszergyára
+E.ON Hungária Zrt.
+ERBE
+ERDÉRT
+Erste Bank (Magyarország)
+Észak-magyarországi Áramszolgáltató Nyrt.
+Északi Járműjavító
+EuroAszfalt Építő és Szolgáltató Kft.
+Európai Levelező Oktatási Kft.
+EVIG
+Fantasy Film
+FÉG
+Fehér Ferenc Precíziós Mechanikai és Gépműhelye
+Felföldi Édességgyártó Kft.
+Festipay
+FGSZ Földgázszállító Zrt.
+FHB Csoport
+Fiatal Vállalkozók Országos Szövetsége
+FM1 Konzorcium
+FOK-GYEM
+Fornetti
+Forte Fotokémiai Ipar
+Fórum Hungary
+FŐTÁV Zrt.
+Fővárosi Ásványvíz és Üdítőipari Zrt.
+Fővárosi Patyolat Vállalat
+François Pezsgőgyár
+Friesland-Campina Hungária Zrt.
+Fundamenta-Lakáskassza Lakás-takarékpénztár Zrt.
+Gamma (gyár)
+Ganz Műszer Művek
+Ganz Árammérőgyár
+Ganz és Társa-Danubius Villamossági-, Gép-, Waggon- és Hajógyár Rt.
+Ganz Közlekedési Mérőműszerek Gyára
+Ganz Műszer Művek EKM gyára
+Ganz Transelektro Közlekedési Zrt.
+Ganz vállalatok
+Ganz Villamossági Művek
+Genesis Energy Nyrt.
+Gépipari Elektromos Karbantartó Vállalat
+GIMEX-Hidraulika Kft.
+Globex Holding
+Goldberger Textilgyár
+Goodwill Communications
+Goodwill Pharma
+Gramy Records
+Gránit Bank
+Graphasel Design Studio
+Graphisoft Park
+Gravity R&D
+Griff Collection
+Gyulaj Erdészeti és Vadászati Zrt.
+H&S Transport
+Habselyem Kötöttárugyár
+Hajós- és Szántó Elektromos Gyára Rt.
+Hauer Cukrászda
+Hauni Hungaria Gépgyártó Kft.
+HáziPatika.com
+Heineken Hungária Sörgyárak Zrt.
+Hell Energy Magyarország Kft.
+Hercz Jenő gépgyára és vasöntödéje
+Herendi Porcelánmanufaktúra Zrt.
+Herta Kft.
+Highlander Visual Production
+Hiperkom
+Híradástechnikai Anyagok Gyára
+Hírek Média
+Hírlapkiadó Vállalat
+Hódmezővásárhelyi Divat Kötöttárugyár
+Hofherr-Schrantz-Clayton-Shuttleworth Magyar Gépgyári Művek Rt.
+Hollóházi Porcelánmanufaktúra
+Honda Hungary Kft.
+HospInvest Zrt.
+Hungaropharma
+Hungarotex
+Hungaroton
+Hungerit Zrt.
+Hungrana Keményítő- és Izocukorgyártó és Forgalmazó Kft.
+Hunnia Filmgyár
+IBUSZ Utazási Irodák Kft.
+IFUA Horváth & Partners
+Ikarus
+Indamedia csoport
+Index.hu
+Index.hu Zrt.
+Indotek Csoport
+InfoRádió
+InterCom Zrt.
+Intertoll
+Intim Center
+Invia
+Invitech
+Invitel
+Iránytű Intézet
+Irodagépipari és Finommechanikai Vállalat
+K&H Bank
+Kanizsa Trend Kft.
+KAVOSZ Zrt.
+KDB Bank (Magyarország)
+Kecskemétfilm Kft.
+Keravill
+Kinizsi Bank
+Kispesti Textilgyár
+Kner Nyomda
+Knorr-Bremse-fékrendszerek
+Kontakta Alkatrészgyár
+Kordax Rt.
+Könyvudvar
+Községi Kenyérgyár
+Labor Műszeripari Művek
+Lakó- és Kommunális Épületeket Tervező Vállalat
+Láng Gépgyár
+Leszih Miksa gazdasági gépgyára
+Lupis Brókerház
+M6 Duna Autópálya Koncessziós Zrt.
+Mafilm
+Magyar Általános Kőszénbánya Részvénytársaság
+Magyar Bankholding Zrt.
+Magyar Cetelem Bank
+Magyar Elektrotechnikai Ellenőrző Intézet
+Magyar Fejlesztési Bank
+Magyar Földgáztároló Zrt.
+Magyar Királyi Állami Vas-, Acél- és Gépgyárak
+Magyar Leszámítoló és Pénzváltó Bank
+Magyar mobilszolgáltatók
+Magyar Pamutipar Rt.
+Magyar Pénzverő Zrt.
+Magyar Posta Zrt.
+Magyar Selyemipar Vállalat
+Magyar Siemens-Schuckert Művek
+Magyar Szénbányászati Tröszt
+Magyar Telekom
+Magyar Turizmus Zrt.
+Magyar Optikai Művek
+Magyarországi gyárak listája iparágak szerinti bontásban
+Magyarországi gyárak listája területi bontásban
+MAL Magyar Alumínium Termelő és Kereskedelmi Zrt.
+Mangattack
+Marx és Mérei Tudományos Műszerek Gyára
+MATERal
+MAUMIK Irányítástechnikai Kft.
+MÁV Hídépítő Kft.
+Mayo Chix
+Mechanikai Laboratórium Híradástechnikai Kísérleti Vállalat
+Mechanikai Mérőműszerek Gyára
+Mecsek Autópálya Koncessziós Zrt.
+Mediaworks Hungary Zrt.
+Medicor
+Medicover (Magyarország)
+Megatherm
+Melléktermék- és Hulladékhasznosító Vállalat
+Merck KGaA
+MET-csoport
+Metallochemia
+Miskolci Gőztéglagyár
+Miskolci kőedénygyárak
+Miskolci Likőrgyár Zrt.
+Miskolci Textilipari Rt.
+Miskolci Üveggyár Rt.
+MKB Bank
+MOHAnet Mobilsystems Zrt.
+MOKÉP
+MOL Petrolkémia Zrt.
+MOL Magyar Olaj- és Gázipari Nyrt.
+Moravetz Testvérek
+Moskovits Sámuel vasöntödéje és gépgyára
+Mozinet
+MPK Magyar Pénzügyi Közvetítő Zrt.
+Murányi Unió
+Műszer Automatika Kft.
+Nagykanizsai Sörgyár Rt.
+Nemzeti dohánybolt
+Nemzeti Infrastruktúra-fejlesztő Zrt.
+Nemzeti Közművek
+Nemzeti Ménesbirtok és Tangazdaság Zrt.
+Nemzeti Útdíjfizetési Szolgáltató Zrt.
+Neo Interactive
+NetAcademia Oktatóközpont
+Netfórum
+Neticle
+NEXON
+Nextent Informatika Zrt.
+NHB Bank Zrt.
+NIK Központi Autótervező Iroda
+Novotrade Rt.
+Oázis Kertészet
+OBO Bettermann Hungary
+Óbudai Szeszgyár
+Offset és Játékkártya Nyomda Zrt.
+Omninvest
+Opus Global Nyrt.
+Orion (magyar vállalat)
+OTP Bank
+OTP Ingatlanpont
+OTT-ONE Nyrt.
+OVB Magyarország
+Ózdi Kohászati Üzemek
+ÖKO-Pack Nonprofit Kft.
+Őrmester Vagyonvédelmi Nyrt.
+Paks II. Zrt.
+MVM Paksi Atomerőmű
+PannErgy Nyrt.
+Pannon Lapok Társasága Kiadói Kft.
+Pannónia Filmstúdió
+Panrusgáz
+Pártos és Társa
+Pécsi Bőrgyár
+Pécsi Dohánygyár
+Pécsi Kesztyűgyár
+Pécsi Orgonaépítő Manufaktúra Kft.
+PEMŰ Műanyagipari Zrt.
+Pénzcentrum.hu
+Pesti Magyar Kereskedelmi Bank
+Petőfi Nyomda
+Pick Szeged Zrt.
+Pilisi Parkerdő Zrt.
+PlayON
+Poli-Farbe
+Portfolio.hu
+Postabank
+Princz-testvérek vasöntöde és gépgyár
+ProfiPower
+Provident
+ProVideo
+Prückler Ignácz Magyarország első rum-, likőr- és pezsgőgyára
+Quaestor Csoport
+Quantis Csoport
+Rába Járműipari Holding
+Raiffeisen Bank (Magyarország)
+RÁK Antenna Gyártó Kft.
+REGIO JÁTÉK
+REMIX Rádiótechnikai Vállalat
+Révai Nyomda
+Richter Gedeon Nyrt.
+Rimai Coalitio
+Ringier Axel Springer Magyarország Kft.
+Róbert Károly Magánkórház
+Rovitex
+Röck István Gépgyára
+RSM DTM AUDIT
+Sabar Borház
+Salgótarjáni Kohászati Üzemek
+Salgótarjáni Öblösüveggyár
+Sanofi
+Sberbank (Magyarország)
+Schlick gyár
+Schmidt Bender Hungária
+Scitec Kft.
+SDI Media Hungary
+Senior Váci Kötöttárugyár
+Shopline
+Sólyom Hungarian Airways
+Sprint Consulting
+SRS Informatika
+Strauss Metal Kft.
+Széchenyi Kereskedelmi Bank Zrt.
+Szerencsejáték Zrt.
+Szerszámgépipari Művek
+Szilágyi és Diskant motor- és gépgyár
+Szonda Ipsos
+T-Home
+T-Mobile (Magyar Telekom Csoport)
+T-Online
+Takarékbank
+Tarr Kft.
+Tartós állami tulajdonú társasági részesedéssel működő társaságok
+Taurus Gumiipari Vállalat
+TBG Hungária-Beton Kft.
+Telefongyár
+Telenor Magyarország
+Tesco (Magyarország)
+ThalesNano Zrt.
+Thermovolt Műszervállalat
+This is Redy
+TIGÁZ
+Tipton Eyeworks
+Tisza Cipő Zrt.
+Tiszai Erőmű Vállalat
+Tiszamenti Vegyiművek
+Tonalit
+Topits József fia gőztésztagyár
+Toti Sport
+Törley
+Tvnetwork Nyrt.
+TWD Investments Nyrt.
+UIP-Dunafilm
+Újpesti Cérnagyár
+UniCredit Bank (Magyarország)
+UNION Biztosító
+United Call Centers
+Univer cégcsoport
+UNIX Autó Kft.
+Vasvármegyei Elektromos Művek Rt.
+VCC Live Group Zrt.
+Versys Clinics
+Vidanet
+Videoton Holding Zrt.
+Vodafone
+Vörös Csillag Traktorgyár
+Waberer’s International Nyrt.

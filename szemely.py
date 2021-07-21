@@ -3,7 +3,7 @@ import time
 import pyperclip
 import random
 import unidecode
-
+from datetime import datetime
 
 
 def Enter():
@@ -44,6 +44,8 @@ def scroll_list(x,y,options):
         pyautogui.press('down')
     pyautogui.press('enter')
     time.sleep(1)
+
+
 
 f = open("ferfi.txt","r",encoding="utf8")
 n = open("no.txt",'r', encoding="utf8")
@@ -94,7 +96,7 @@ while True:
     ##write(900,500,vnev)
 
     ##click(900,560)
-    if random.randrange(2)==0:
+    if random.randrange(2):
         knev=random.choice(ferfinevek)
         #write(900,560,knev)
         twrite(knev)

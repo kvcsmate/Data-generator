@@ -4,16 +4,20 @@ import pyperclip
 import random
 import unidecode
 from datetime import datetime
+import sys
 
+stime = float(sys.argv[1])
+ltime = float(sys.argv[2])
+print(sys.argv)
 
 def Enter():
-    time.sleep(0.2)
+    time.sleep(stime*0.2)
     pyautogui.press("enter")
-    time.sleep(0.2)
+    time.sleep(stime*0.2)
 def tab():
-    time.sleep(0.2)
+    time.sleep(stime*0.2)
     pyautogui.press("tab")
-    time.sleep(0.2)
+    time.sleep(stime*0.2)
 
 def click(x,y):
     pyautogui.moveTo(x,y,duration=0.5)
@@ -32,18 +36,20 @@ def write(x,y,string):
     pyautogui.hotkey("ctrl", "v")
 def tscroll(options):
     tab()
-    pyautogui.press("enter")
+    Enter()
     for _ in range  (random.randrange(1,options)):
         pyautogui.press('down')
-    pyautogui.press('enter')
-    time.sleep(1)
+        time.sleep(stime*0.1)
+    Enter()
+    time.sleep(stime)
 
 def scroll_list(x,y,options):
     click(x,y)
     for _ in range  (random.randrange(1,options)):
         pyautogui.press('down')
     pyautogui.press('enter')
-    time.sleep(1)
+    time.sleep(stime)
+
 
 
 
@@ -113,7 +119,7 @@ while True:
     twrite(email)
     #click(900,700) ##submit
     TEnter()
-    time.sleep(2)
+    time.sleep(ltime)
     #click(1200,330) ## telefonszám
     telszam='06' + str(random.randrange(1,10)) + '0'
     
@@ -149,7 +155,7 @@ while True:
         click(680,640)
 
     click(450,700) ##submit form
-    time.sleep(2)
+    time.sleep(ltime)
 
 
     ##iskolák:430 595
@@ -176,6 +182,7 @@ while True:
     write(900,630,str(befejezes))
     ## mentés : 870 755
     click(870,755)
+    time.sleep(ltime)
 
     ## nyelv :465 745
     click(465,745)
@@ -218,7 +225,7 @@ while True:
         ## paste diak.pdf
         ## enter
         pyautogui.press("enter")
-        time.sleep(2)
+        time.sleep(ltime)
         
         ##mentés 900 670
         click(900,670)
@@ -240,6 +247,7 @@ while True:
         TEnter()
         ## részletek: 400 185
         click(400,185)
+        time.sleep(ltime)
 
     if random.randrange(2):
          ##jelentkezések : 950 185
@@ -257,6 +265,7 @@ while True:
         click(850,740)
         ## részletek: 400 185
         click(400,185)
+        time.sleep(ltime)
    
 
     click(1220,900) ## vissza

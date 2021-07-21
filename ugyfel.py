@@ -6,16 +6,17 @@ import unidecode
 from datetime import datetime
 
 
-
+stime = 1
+ltime = 10
 
 def Enter():
-    time.sleep(0.2)
+    time.sleep(stime*0.2)
     pyautogui.press("enter")
-    time.sleep(0.2)
+    time.sleep(stime*0.2)
 def tab():
-    time.sleep(0.2)
+    time.sleep(stime*0.2)
     pyautogui.press("tab")
-    time.sleep(0.2)
+    time.sleep(stime*0.2)
 
 def click(x,y):
     pyautogui.moveTo(x,y,duration=0.5)
@@ -34,18 +35,19 @@ def write(x,y,string):
     pyautogui.hotkey("ctrl", "v")
 def tscroll(options):
     tab()
-    pyautogui.press("enter")
+    Enter()
     for _ in range  (random.randrange(1,options)):
         pyautogui.press('down')
-    pyautogui.press('enter')
-    time.sleep(1)
+        time.sleep(stime*0.1)
+    Enter()
+    time.sleep(stime)
 
 def scroll_list(x,y,options):
     click(x,y)
     for _ in range  (random.randrange(1,options)):
         pyautogui.press('down')
     pyautogui.press('enter')
-    time.sleep(1)
+    time.sleep(stime)
 
 c = open("ceg.txt",'r',encoding="utf8")
 cegek=[]
@@ -53,7 +55,7 @@ for x in c:
     x=x.strip()
     cegek.append(x)
 
-random.seed(datetime.now())
+
 #print(cegek)
 #while True:
 click(500,600)

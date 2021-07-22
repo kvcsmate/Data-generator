@@ -1,0 +1,478 @@
+Névtelen utca
+Saját használatú út
+Őrház
+Dohány utca
+Sánc utca
+Szirtes út
+Gellért rakpart
+Szent Gellért rakpart
+Döbrentei tér
+Gellérthegy egyéb
+Tabán Naphegy utca
+Hegyalja út
+Dózsa György tér - Attila út
+Krisztina körút
+Attila út
+Döbrentei utca
+Apród utca
+Szarvas tér
+Várhegy
+Vérmező park
+Palota út
+Alagút utca
+Tabán Naphegy utca
+Aladár utca 15.
+Alkotás utca
+Csalogány utca 46.
+Hunyadi János út
+Lánchíd utca
+Clark Ádám tér
+Fő utca
+Angelo Rotta rakpart
+Bem rakpart
+Budakeszi út
+Hűvősvölgyi út
+Nagykovácsi út
+Szilágyi Erzsébet fasor
+Margit körút
+Széll Kálmán tér
+Széna tér
+Baka utca
+Germanus Gyula park
+Árpád fejedelem útja
+Slachta Margit rakpart
+Bem József tér
+Tölgyfa utca
+Bem József utca
+Zsigmond tér
+Lajos utca
+Felhévizi utca
+Ürömi utca
+Mecenzéf utca
+Józsefhegyi lépcső
+Csatárka út
+Pálvölgyi út
+Ördögárok utca
+Kaptató utca
+Hidegkúti út
+Galóca utca
+Dózsa György utca
+Bécsi út
+Szépvölgyi út
+Virág Benedek utca
+Hármashatárhegyi út
+Nyereg utca
+Doberdó út
+Bécsi út
+Flórián tér
+Pacsirtamező utca
+Árpád fejedelem út
+Vörösvári út
+Folyamőr utca
+Árpád hídi felhajtó
+Szentendrei út
+Hévizi út
+Huszti út
+Reviczky ezredes utca
+Bécsi út 285
+Csillaghegyi út
+Orbán Balázs út
+Csillaghegyi út
+Búza utca
+Mozaik utca
+Mozaik utca
+gróf Esterházy János rakpart
+Jégtörő út
+Gázgyári védmű
+Dunaparti út
+Sujtás utca
+Sujtás utca
+Keled út
+Zsófia utca
+Aranyos utca
+Gyöngysor utca
+Törökkő utca
+Bóbita utca
+Péter utca
+Pók utca
+Lőpormalom utca
+Pók utca 1
+Nánási út
+Hajógyári sziget
+Királyok útja
+Ezüsthegy utca
+Széchenyi utca
+Újmegyeri tér
+Hatvany Lajos utca
+Madzsar József utca
+11. sz. út új nyomvonala
+Honvéd utca
+Árpád út
+Bocskai utca 
+Berda József utca
+Bocskai utca 18
+Csányi László utca
+Temesvári utca
+Árpád út
+Ősz utca
+Tél utca
+Virág utca
+István út
+Árpád út
+Váci út
+Dugonics utca 
+Pozsonyi utca
+Tó utca
+Istvántelki út 
+Elem utca
+Fóti út
+Külső Szilágyi út
+Tímár utca
+Szilas patak
+Sporttelep utca
+Szilágyi utca
+Érmihályfalva utca
+Almakerék utca
+Mádéfalva utca
+Iparipark utca
+Tenkefürdő utca
+Székelyszenttamás utca
+Óradna utca
+Nincs utcanév
+Somlyói Nagy Sándor utca
+Gémes József utca
+Körösbánya utca
+Koszterna utca
+Csíksomlyó utca
+Tófalva utca
+Malomvíz utca
+Marosújvár utca
+Íves út
+Káposztásmegyeri út
+Mogyoródi patak
+Óceán-árok utca
+Sárpatak utca
+Csiksomlyó utca
+István utca
+Farkaserdő utca
+Megyeri út
+Március 15. tér
+Fővám tér
+Ferenciek tere
+Vámház körút
+Múzeum körút
+Kossuth Lajos utca
+Károly körút
+Szabadsajtó útja
+Jane Haning rakpart
+Váci utca
+Deák Ferenc tér
+Vörösmarty tér
+József Attila utca
+idősebb Antall József rakpart
+Széchenyi tér
+Podmaniczky tér
+Alkotmány utca
+Olimpia park
+Nyugati tér
+Szent István körút
+Jászai Mari tér
+Lehel utca
+Ferdinánd híd felhajtója
+Podmaniczky utca
+Dózsa Gyögy út
+Teréz körút
+Andrássy út
+Oktogon tér
+Kodály körönd
+Városligeti fasor
+Dózsa György út
+Baross tér
+Thököly út
+Damjanich utca
+Lövölde tér
+Rottenbiller utca
+Erzsébet körút
+Rákóczi út
+Kerepesi út
+Fiumei út
+II. János Pál pápa tér
+Vásár utca
+Rákóczi tér
+Teleki tér
+Baross utca
+Harminckettesek tere
+Orczy tér
+Orczy út
+Ludovika tér
+Üllői út
+Üllői út
+József körút
+Blaha Lujza tér
+Nagyvárad tér
+Könyves Kálmán körút
+Kőbányai út
+Könyves Kálmán körút
+Hungária körút
+Kálvin tér
+Nehru part
+Fővám tér
+Boráros tér
+Ferenc körút
+Balázs Béla utca
+Ernő utca
+Mester utca
+Soroksári út
+Duna part
+Gizella sétány
+Lechner Ödön fasor
+Máriássy utca
+Gubacsi út
+Hídépítő utca
+Kvassay Jenő út
+Soroksári út
+Névtelen
+Gubacsi út
+Határ út
+Illatos árok
+Ecseri út
+Gyáli út
+Kőér utca
+Vasgyár utca
+Népliget Üllői út
+Bihari út
+Mázsa tér
+Könyves Kálmán körú
+Vajda Péter utca
+Liget tér
+Korponai utca
+Körösi Csoma Sándor út
+Kőrösi Csoma Sándor út
+Fehér út
+Gyógyszergyár utca
+Gyakorló utca
+Keresztúri út
+Rákos patak
+Pilisi utca
+Jászberényi út
+Bánya utca
+Vaspálya utca
+Székfüvirág utca
+Gyömrői út
+Sibrik Miklós út
+Ferihegyi repülőtérre vezető út
+Mátyásföldi árok
+Egér út
+Balatoni út
+Dobogó út
+Péterhegyi út
+Boldizsár út
+Címképzés alatt egyéb
+Sasadi - árok
+Budaörsi út
+M1-M7 autópálya bevezető út
+Kőérberki út
+Spanyolrét út
+Gazdagréti út
+Gazdaréti út
+Hosszúréti utca
+Budaőrsi út
+Poprádi út
+Kaptató sétány
+Budaörsi út
+Budaörsi út
+Budaörsi út
+Rétköz utca
+Villányi út
+Budaörsi út
+Vasút utca
+Kelenföldi út
+Etele tér
+Somogyi út
+Etele tér 
+Gyergyótölgyes utca
+Andor utca
+Hadak útja
+Bartók Béla út
+Borszéki utca
+Fehérvári út
+Galvani utca
+Dombóvári út
+Szerémi út
+Budafoki út
+Hamzsabégi út
+Goldmann György tér
+Pázmány Péter sétány
+Bogdánfy utca
+Irinyi József utca
+Valdemar és Nina Langlet rakpart
+Műegyetem rakpart
+Október 23. út
+Móricz Zsigmond körtér
+Bocskai út
+Kosztolányi Dezső tér
+Nagyszőlős utca
+Karolina út
+Szirtes út 25.
+Kelenhegyi út
+Gellérthegy
+Rezeda köz
+Rezeda utca 
+Szent Gellért tér
+Raoul Wallenberg rakpart
+Kitérő út
+Fibula utca
+Hunyadi János út
+Postás utca
+Szeghalom utca
+Andor utca 
+Parittya utca
+Kelen-völgyi új sor
+Olajbogyó utca
+Csákvár utca
+Szajol utca
+Csaba utca
+Magyar Jakobinusok tere
+Mártonhegyi út
+Isten-hegyi út
+Istenhegyi út
+Béla király út
+Jánoshegyi út
+Margitsziget
+Carl Lutz rakpart
+Szent István park
+Pozsonyi út
+Újpesti sétány
+Dráva utca
+Róbert Károly körút
+Árpád hídi lehajtó Duna-part
+Árpád hídi lehajtó
+Hajókovács utca
+Árva utca
+Göncöl utca
+Reitter Ferenc utca
+Lehel tér
+Állatkerti út
+Kacsóh Pongrác út
+Francia út
+3.sz. főút bevezetése
+Nagy Lajos király útja
+Teleki Blanka út
+Udvard utca
+Fűrész utca
+Ungvár utca
+Ilosvai Selymes tér
+Csömöri út
+Kövér Lajos utca
+Fogarasi út
+Rákos út
+Szentkorona útja
+Kolozsvár utca
+Körvasútsor
+Apolló utca
+Körvasút sor
+Drégelyvár utca
+Késmárk utca
+Gábor Áron utca
+Hubay Jenő tér
+Szőcs Áron utca
+Fő út
+Pozsony utca
+Megszünt Szilas patak
+Csömöri patak
+Külső Fóti út
+Régi Fóti út
+Kossuth utca
+Szentmihályi út
+Madách utca
+Nyírpalota út
+Rákospalotai határút
+Veres Péter út
+Cinkotai út
+Rákóczi utca
+György utca
+Szlovák út
+Timur utca
+Regös liget
+Ostoros út
+Magtár utca
+Szabadföld út
+Simongát utca
+Vidámvásár utca
+Furmint utca
+Nagytarcsai út
+Pesti út
+Aranylúd utca
+513. utca
+Bélatelepi út
+Szabadság utca
+Ferihegyi út
+Csabai út
+Diák park
+Zrínyi utca
+Péceli út
+Szabadság sugárút
+Tarcsai út
+Czeglédi Mihály utca
+Zrinyi utca
+Rákosligeti határút
+Gyáli patak VII. es ág patak
+Nagykőrösi út
+Sallai Imre utca
+Petőfi utca
+Méta utca
+Margó Tivadar utca
+Hosszúház utca
+Ferihegyi reptér út
+Ráday Gedeon utca
+Haladás utca
+Nemes utca
+Belsőmajor dülő utca
+Ady Endre út
+Hunyadi utca
+Csepeli átjáró
+Helsinki út
+Topánka utca
+Berkenye sétány
+Nagysándor József utca
+Gyáli patak VI/e.ág
+5. sz főút bevezetése
+Névtelen tér
+II. Rákóczi Ferenc út
+Kapos utca
+Bordás András utca
+Szent István út
+Kossuth L. utca
+Vágóhíd u - Ív utca
+Negyedik utca
+Deák Ferenc utca
+Pöltenberg utca
+Védgát utca
+Corvin út
+Weiss Manfréd út
+Nagydunasor
+Teller Ede út
+Frangepán utca
+Gyepsor utca
+Láng Kálmán utca
+Magyar utca
+Bajáki Ferenc utca
+Betü utca
+Rakéta utca
+8655. út
+Csepeli út
+Anna utca
+Leányka utca
+Mária Terézia utca
+Nagytétényi út
+6.sz. főút bevezetése
+836. út
+Angeli utca
+Könyves utca
+Grassalkovich út
+Tárcsás utca
+Zománc utca
+Szentlőrinci út
+Haraszti út
+Újtelep út
+Dinnyehegyi út

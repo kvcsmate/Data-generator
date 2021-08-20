@@ -186,19 +186,26 @@ while True:
     twrite(szamsor(1))
     iclick("ok.png")
 
-    write(1100,590,lorem.paragraph())
+    #write(1100,590,lorem.paragraph())
     #iwrite("ugyfel\\ceg_info.png",lorem.paragraph())
 
-    label = random.randrange(3)
-    if label==0:
-        #click(400,680)
-        iclick("ugyfel\\clientlabel1.png")
-    elif label == 1:
-        #click(500,680)
-        iclick("ugyfel\\clientlabel2.png")
-    elif label == 2:
-        #click(600,860)
-        iclick("ugyfel\\clientlabel3.png")
+    label = random.randrange(2)
+    tries=0
+    while tries<3:
+
+        try:
+            if label==0:
+                #click(400,680)
+                iclick("ugyfel\\clientlabel1.png")
+            elif label == 1:
+                #click(500,680)
+                iclick("ugyfel\\clientlabel2.png")
+            tries= 3
+        except:
+            
+            tries+=1
+            print("nem ismert fel egy képet, újrapróbálkozás..")
+            time.sleep(3)
 
     iclick("ugyfel\\mentes.png")
 

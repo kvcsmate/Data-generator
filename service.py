@@ -233,10 +233,10 @@ try:
     driver.maximize_window()
     # time.sleep(5)
 
-    write("email", 'kvcsmate98@gmail.com')
+    write("email", 'emailcím')
 
 
-    write("password", 'Selenium123')
+    write("password", 'jelszó')
     submit_btn = driver.find_element_by_class_name("btn")
     submit_btn.click()
     time.sleep(5)
